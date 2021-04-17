@@ -1,5 +1,5 @@
 * {
-    color: #333;
+    color: #ABABAB;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 #responseArea, #domain-container, #port-container, #submit-container {
@@ -57,7 +57,7 @@ table {
 }
 
 .btn, .thead {
-    background-color: #44c0f0 !important;
+    background-color: #A2E3C4 !important;
 }
 .thead {
     text-align: center;
@@ -87,7 +87,7 @@ td {
 caption { 
     background-color: rgb(90,85,90);
     font-weight: bold;
-    color: #44c0f0; 
+    color: #B6C2D9; 
     padding-top: .7em; 
     padding-bottom: .7em; 
     letter-spacing: .085em;
@@ -100,6 +100,7 @@ caption {
     float: left;
     margin: 10px;
     text-align: center;
+  background-color: #f8f8ff;
 }
 
 .form-label {
@@ -109,10 +110,11 @@ caption {
     margin: 10px 10px 10px 0;
     text-align: center;
     padding:10 0 10 0;
+  
 }
 
 .logo-style1 {
-    color:#44c0f0;
+    color:#A2E3C4;
     font-weight: bold;
 }
 
@@ -124,7 +126,7 @@ caption {
   .sk-three-bounce .sk-child {
     width: 20px;
     height: 20px;
-    background-color: #44c0f0;
+    background-color: #B6C2D9;
     border-radius: 100%;
     display: inline-block;
     -webkit-animation: sk-three-bounce 1.4s ease-in-out 0s infinite both;
@@ -154,6 +156,10 @@ caption {
     -webkit-transform: scale(1);
             transform: scale(1); } 
         
+}
+
+body{
+  background-color:#383B53;
 }
 
 footer {
