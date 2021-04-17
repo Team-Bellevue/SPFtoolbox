@@ -40,7 +40,7 @@ header("Pragma: no-cache");
     <div class="container">
         <div class="row" id="top-row">
             <div class="col-md-12">
-                <H1 class="logo"><Span class = "logo-style1">SPF</Span>Toolbox</H1>
+                <H1 class="logo"><Span class = "logo-style1">SPF</Span>Team Bellevue</H1>
             </div>
         </div>
         <div class="row">

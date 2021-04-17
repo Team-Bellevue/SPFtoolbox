@@ -161,6 +161,9 @@ caption {
 body{
   background-color:#383B53;
 }
+tr{
+    color:black;
+}
 
 footer {
     padding-top: 50px;
