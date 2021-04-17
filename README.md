@@ -4,6 +4,7 @@
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/daioadpjniipfipfmenkefjpdncbekcd.svg)](https://chrome.google.com/webstore/detail/daioadpjniipfipfmenkefjpdncbekcd)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?label=my-website)](http://charlesabarnes.com)
 
+This repo is for research for CIT 481 as an example webapp to prove that our webstack can support a webapp.
 
 SPFtoolbox is an Application to check simple information such as SPF, DNS records, and more
 
