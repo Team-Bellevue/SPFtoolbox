@@ -7,6 +7,8 @@
 ## Why the Fork
 This repo is for research for CIT 481 as an example webapp to prove that our webstack can support a webapp.
 
+## About SPFtoolbox
+
 SPFtoolbox is an Application to check simple information such as SPF, DNS records, and more
 
 ## Releases
