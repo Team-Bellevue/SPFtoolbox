@@ -1,6 +1,6 @@
 ![Logo](http://i.imgur.com/itUhheI.png "Logo")
 
-SPFtoolbox is an Application to check simple information such as SPF, DNS records, and more. For our presentation we di adjust the color scheme of our webpage
+SPFtoolbox is an Application to check simple information such as SPF, DNS records, and more. For our presentation we did adjust the color scheme of our webpage
 
 
 ## Contribute
