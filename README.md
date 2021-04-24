@@ -11,5 +11,5 @@ There are many ways to contribute to SPFtoolbox.
 
 ## Screenshot
 
-![big screenshot](https://imgur.com/LB6dN7n "Screenshot")
+![big screenshot](https://imgur.com/LB6dN7n.png "Screenshot")
 
